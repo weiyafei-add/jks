@@ -25,7 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            学习 react + jenkins
+            学习 react + jenkins + SSH
           </a>
           {" | "}
           <a
